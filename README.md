@@ -28,7 +28,7 @@ drying_days = thickness² × wood_factor × method_factor
 
 ## 📚 Resources
 
-- [My Woodcarving Blog]([https://deine-holzbildhauerei-seite.de](https://www.asayasculpture.com/))
+- [My Woodcarving Blog]([https://www.asayasculpture.com/])
 - [Wood Database](https://www.wood-database.com/)
 - [Woodworking Stack Exchange](https://woodworking.stackexchange.com/)
 
@@ -48,4 +48,4 @@ Feel free to suggest new tools or improvements by opening an issue!
 MIT License - feel free to use and modify
 
 ---
-*Created by [Asaya]([https://deine-holzbildhauerei-seite.de](https://www.asayasculpture.com/)) - Passionate wood carver*
+*Created by [Asaya]([https://www.asayasculpture.com/]) - Passionate wood carver*
